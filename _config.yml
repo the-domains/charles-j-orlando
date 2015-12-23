@@ -1,0 +1,28 @@
+name: Charles J. Orlando
+favicon: null
+layout_spectrum: 0.6556733925826848
+typography_spectrum: 0.16049757483415306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8520974507555366
+  lightness: 0.4051376972347498
+  saturation: 0.28969522472471
+  rhythmicContrast: 0.583812938304618
+purpose: []
